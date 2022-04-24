@@ -6,6 +6,7 @@ seq = []
 def backtracking():
     if len(seq) == m:
         print(*seq)
+		return 
     for i in range(1, n + 1):
         if i not in seq:
             seq.append(i)
