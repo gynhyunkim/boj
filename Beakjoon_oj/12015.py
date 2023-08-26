@@ -1,13 +1,16 @@
 from sys import stdin
+import bisect
 
 N = int(stdin.readline())
 A = list(map(int, stdin.readline().split()))
 
-dp = [1] * N
+dp = [A[0]]
 
 for i in range(N):
-    for j in range(i):
-        if A[i] > A[j]:
-            dp[i] = max(dp[i], dp[j] + 1)
+    if A[i] > dp[-1]:
+        dp.append(A[i])
+    else:
+        idx = bisect.bisect_left(dp, A[i])
+        dp[idx] = A[i]
 
-print(max(dp))
+print(len(dp))
