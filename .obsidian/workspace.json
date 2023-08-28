@@ -11,8 +11,12 @@
             "id": "d419b0030e454909",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Beakjoon_oj/solution/7569 토마토.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "1c98c9e4d3f63d17",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Beakjoon_oj/solution/7569 토마토.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Beakjoon_oj/solution/7569 토마토.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Beakjoon_oj/solution/7569 토마토.md"
+              }
             }
           }
         ]
@@ -139,6 +147,20 @@
   },
   "active": "d419b0030e454909",
   "lastOpenFiles": [
+    "Beakjoon_oj/solution/17780 새로운 게임.md",
+    "Beakjoon_oj/solution/7569 토마토.md",
+    "Beakjoon_oj/4913",
+    "Beakjoon_oj/2631.py",
+    "Beakjoon_oj/solution/10021 Watering the Fields.md",
+    "Beakjoon_oj/solution/15591 MooTube (Silver).md",
+    "Beakjoon_oj/11723.py",
+    "Beakjoon_oj/solution/6989 채점.md",
+    "Beakjoon_oj/solution/2618 경찰차.md",
+    "Beakjoon_oj/solution/2862 수학 게임.md",
+    "Beakjoon_oj/solution/9251 LCS.md",
+    "Beakjoon_oj/a.out",
+    "Beakjoon_oj/6989.cpp",
+    "Beakjoon_oj/solution/11570 환상의 듀엣.md",
     "Programmers/solution/lvl3 거스름돈.md",
     "Programmers/solution/lvl2 줄 서는 방법.md",
     "Programmers/solution",
