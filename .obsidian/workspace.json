@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beakjoon_oj/solution/7569 토마토.md",
+                "file": "Beakjoon_oj/solution/5014 스타트링크.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beakjoon_oj/solution/7569 토마토.md",
+                "file": "Beakjoon_oj/solution/5014 스타트링크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beakjoon_oj/solution/7569 토마토.md",
+                "file": "Beakjoon_oj/solution/5014 스타트링크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beakjoon_oj/solution/7569 토마토.md"
+                "file": "Beakjoon_oj/solution/5014 스타트링크.md"
               }
             }
           }
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,8 +148,9 @@
   },
   "active": "d419b0030e454909",
   "lastOpenFiles": [
-    "Beakjoon_oj/solution/17780 새로운 게임.md",
     "Beakjoon_oj/solution/7569 토마토.md",
+    "Beakjoon_oj/solution/5014 스타트링크.md",
+    "Beakjoon_oj/solution/17780 새로운 게임.md",
     "Beakjoon_oj/4913",
     "Beakjoon_oj/2631.py",
     "Beakjoon_oj/solution/10021 Watering the Fields.md",
