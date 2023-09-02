@@ -5,7 +5,7 @@ This repository is a collection of solution to various algorithm problems.
 # Problem List
 Below is a list of problems I have tackled in this repository. Problems are organized into directories, each containing a brief description of the problem and a link to the code solution.
 ### 1. [Baekjoon OJ](<https://www.acmicpc.net/>)
-[[1562 계단 수]]
+[1562 계단 수](./Baekjoon_oj/)
 [[1697 숨바꼭질]]
 [[2468]]
 [[2618 경찰차]]
