@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beakjoon_oj/solution/5014 스타트링크.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beakjoon_oj/solution/5014 스타트링크.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beakjoon_oj/solution/5014 스타트링크.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beakjoon_oj/solution/5014 스타트링크.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d419b0030e454909",
+  "active": "cee2d8d479aa0430",
   "lastOpenFiles": [
-    "Beakjoon_oj/solution/7569 토마토.md",
     "Beakjoon_oj/solution/5014 스타트링크.md",
+    "README.md",
+    "Beakjoon_oj/solution/10971 외판원 순회2.md",
+    "Beakjoon_oj/solution/1697 숨바꼭질.md",
+    "Beakjoon_oj/solution/7569 토마토.md",
     "Beakjoon_oj/solution/17780 새로운 게임.md",
     "Beakjoon_oj/4913",
     "Beakjoon_oj/2631.py",
