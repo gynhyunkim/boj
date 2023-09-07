@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Baekjoon_oj/solution/9461_파도반_수열.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Baekjoon_oj/solution/9461_파도반_수열.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Baekjoon_oj/solution/9461_파도반_수열.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Baekjoon_oj/solution/9461_파도반_수열.md"
               }
             }
           }
@@ -180,8 +180,11 @@
   },
   "active": "d419b0030e454909",
   "lastOpenFiles": [
-    "Baekjoon_oj/solution/9205_맥주_마시면서_걸어가기.md",
+    "Baekjoon_oj/solution/12100_2048(easy).md",
+    "Baekjoon_oj/solution/9461_파도반_수열.md",
+    "Baekjoon_oj/2293.py",
     "README.md",
+    "Baekjoon_oj/solution/9205_맥주_마시면서_걸어가기.md",
     "Baekjoon_oj/solution/2573_빙산.md",
     "Programmers/solution/lvl3_거스름돈.md",
     "Programmers/solution/lvl2_줄_서는_방법.md",
@@ -204,8 +207,6 @@
     "Baekjoon_oj/solution/2618_경찰차.md",
     "Baekjoon_oj/solution/2468_안전_영역.md",
     "Baekjoon_oj/solution/1697_숨바꼭질.md",
-    "Baekjoon_oj/solution/1562_계단_수.md",
-    "Beakjoon_oj/solution/5014 스타트링크.md",
     "Beakjoon_oj/4913",
     "Beakjoon_oj/2631.py",
     "Beakjoon_oj/11723.py",
