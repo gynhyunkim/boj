@@ -1,21 +1,18 @@
-from sys import stdin, setrecursionlimit
+from sys import stdin
 from copy import deepcopy
 
 N = int(stdin.readline())
 board = [list(map(int, stdin.readline().split())) for _ in range(N)]
-# 상하좌우
-
-# setrecursionlimit = 10 ** 9
 
 def move_left(board):
 	for i in range(N):
 		for j in range(N - 1):
-			k = j + 1
+			k = j
 			while k < N and board[i][k] == 0:
-				print(k)
 				k += 1
-			if k < N and k > j + 1:
-				board[i][j + 1:] = board[i][k:] + [0] * (N - k)
+			if k < N and k > j:
+				board[i][j], board[i][k] = board[i][k], board[i][j]
+		for j in range(N - 1):
 			if board[i][j] == board[i][j + 1]:
 				board[i][j] += board[i][j + 1]
 				board[i][j + 1:] = board[i][j + 2:] + [0]
@@ -25,16 +22,26 @@ def move_left(board):
 def move_right(board):
 	for i in range(N - 1, -1, -1):
 		for j in range(N - 1, 0, -1):
+			k = j
+			while k >= 0 and board[i][k] == 0:
+				k -= 1
+			if k >= 0 and k < j:
+				board[i][j], board[i][k] = board[i][k], board[i][j]
+		for j in range(N - 1, 0, -1):
 			if board[i][j] == board[i][j - 1]:
 				board[i][j] += board[i][j - 1]
-				for k in range(j - 1, N - j - 1, -1):
-					board[i][k] = board[i][k - 1]
-				board[i][N - j - 1] = 0
+				board[i][:j] = [0] + board[i][:j - 1]
 	return board
 	
 
 def move_up(board):
 	for j in range(N):
+		for i in range(N - 1):
+			k = i
+			while k < N and board[k][j] == 0:
+				k += 1
+			if k < N and k > i:
+				board[i][j], board[k][j] = board[k][j], board[i][j]
 		for i in range(N - 1):
 			if board[i][j] == board[i + 1][j]:
 				board[i][j] += board[i + 1][j]
@@ -46,11 +53,17 @@ def move_up(board):
 def move_down(board):
 	for j in range(N - 1, -1, -1):
 		for i in range(N - 1, 0, -1):
+			k = i
+			while k >= 0 and board[k][j] == 0:
+				k -= 1
+			if k >= 0 and k < i:
+				board[k][j], board[i][j] = board[i][j], board[k][j]
+		for i in range(N - 1, 0, -1):
 			if board[i][j] == board[i - 1][j]:
 				board[i][j] += board[i - 1][j]
-				for k in range(i - 1, N - i - 1, -1):
+				for k in range(i - 1, 0, -1):
 					board[k][j] = board[k - 1][j]
-				board[N - i - 1][j] = 0
+				board[0][j] = 0
 	return board
 
 direction = [move_left, move_right, move_up, move_down]
@@ -66,7 +79,5 @@ def sol(board, cnt):
 		sol(tmp_board, cnt + 1)
 
 ans = 2
-# sol(board, 0)
-move_left(board)
-print(board)
+sol(board, 0)
 print(ans)
