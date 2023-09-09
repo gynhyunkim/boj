@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Baekjoon_oj/solution/12100_2048(easy).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Baekjoon_oj/solution/12100_2048(easy).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Baekjoon_oj/solution/12100_2048(easy).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Baekjoon_oj/solution/12100_2048(easy).md"
+                "file": "README.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "34342df273e8ca48",
   "lastOpenFiles": [
-    "Baekjoon_oj/solution/Untitled.md",
     "Baekjoon_oj/solution/12100_2048(easy).md",
+    "Baekjoon_oj/solution/Untitled.md",
     "Baekjoon_oj/solution/9205_맥주_마시면서_걸어가기.md",
     "Baekjoon_oj/solution/2573_빙산.md",
     "Baekjoon_oj/solution/9461_파도반_수열.md",
