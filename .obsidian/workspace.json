@@ -4,48 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dcd5ae3f0fcddff6",
+        "id": "389db83aa65c2f4e",
         "type": "tabs",
         "children": [
           {
-            "id": "d419b0030e454909",
+            "id": "34342df273e8ca48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Baekjoon_oj/solution/9461_파도반_수열.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acf81c86dce06df4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Baekjoon_oj/solution/2573_빙산.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbed790eaed74f59",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "90b9991a96aa56b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Baekjoon_oj/solution/9205_맥주_마시면서_걸어가기.md",
+                "file": "Baekjoon_oj/solution/12100_2048(easy).md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Baekjoon_oj/solution/9461_파도반_수열.md",
+                "file": "Baekjoon_oj/solution/12100_2048(easy).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Baekjoon_oj/solution/9461_파도반_수열.md",
+                "file": "Baekjoon_oj/solution/12100_2048(easy).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Baekjoon_oj/solution/9461_파도반_수열.md"
+                "file": "Baekjoon_oj/solution/12100_2048(easy).md"
               }
             }
           }
@@ -165,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,14 +145,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d419b0030e454909",
+  "active": "34342df273e8ca48",
   "lastOpenFiles": [
+    "Baekjoon_oj/solution/Untitled.md",
     "Baekjoon_oj/solution/12100_2048(easy).md",
+    "Baekjoon_oj/solution/9205_맥주_마시면서_걸어가기.md",
+    "Baekjoon_oj/solution/2573_빙산.md",
     "Baekjoon_oj/solution/9461_파도반_수열.md",
     "Baekjoon_oj/2293.py",
     "README.md",
-    "Baekjoon_oj/solution/9205_맥주_마시면서_걸어가기.md",
-    "Baekjoon_oj/solution/2573_빙산.md",
     "Programmers/solution/lvl3_거스름돈.md",
     "Programmers/solution/lvl2_줄_서는_방법.md",
     "Baekjoon_oj/solution/17780_새로운_게임.md",
@@ -206,7 +174,6 @@
     "Baekjoon_oj/solution/2862_수학_게임.md",
     "Baekjoon_oj/solution/2618_경찰차.md",
     "Baekjoon_oj/solution/2468_안전_영역.md",
-    "Baekjoon_oj/solution/1697_숨바꼭질.md",
     "Beakjoon_oj/4913",
     "Beakjoon_oj/2631.py",
     "Beakjoon_oj/11723.py",
