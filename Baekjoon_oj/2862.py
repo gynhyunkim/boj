@@ -6,7 +6,7 @@ for i in range(2, N + 1):
 	dp.append(dp[i - 2] + dp[i - 1])
 	if dp[i] > N:
 		break
-print(dp)
+# print(dp)
 for i in range(len(dp) - 1, 2, -1):
 	if N < dp[i]:
 		continue

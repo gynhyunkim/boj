@@ -16,4 +16,4 @@ else:
         elif fibo[i] == N:
             break
         N -= fibo[i]
-    print(N)
+    print(N)g
