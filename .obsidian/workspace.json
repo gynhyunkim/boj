@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Baekjoon_oj/solution/15683_감시.md",
+                "file": "Baekjoon_oj/solution/2559_수열.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Baekjoon_oj/solution/15683_감시.md",
+                "file": "Baekjoon_oj/solution/2559_수열.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Baekjoon_oj/solution/15683_감시.md",
+                "file": "Baekjoon_oj/solution/2559_수열.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Baekjoon_oj/solution/15683_감시.md"
+                "file": "Baekjoon_oj/solution/2559_수열.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "34342df273e8ca48",
   "lastOpenFiles": [
-    "README.md",
     "Baekjoon_oj/solution/15683_감시.md",
+    "Baekjoon_oj/solution/2559_수열.md",
+    "README.md",
     "Baekjoon_oj/solution/14891_톱니바퀴.md",
     "Baekjoon_oj/solution/1965_상자넣기.md",
     "Baekjoon_oj/solution/14501_퇴사.md",
@@ -184,7 +185,6 @@
     "Baekjoon_oj/solution/9095_1,2,3_더하기.md",
     "Baekjoon_oj/solution/7569_토마토.md",
     "Baekjoon_oj/solution/6989_채점.md",
-    "Baekjoon_oj/solution/5014_스타트링크.md",
     "Beakjoon_oj/4913",
     "Beakjoon_oj/2631.py",
     "Beakjoon_oj/11723.py",
