@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Baekjoon_oj/solution/2877_4와7.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Baekjoon_oj/solution/2877_4와7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Baekjoon_oj/solution/2877_4와7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Baekjoon_oj/solution/2877_4와7.md"
               }
             }
           },
@@ -157,8 +157,10 @@
   },
   "active": "34342df273e8ca48",
   "lastOpenFiles": [
-    "Baekjoon_oj/solution/1562_계단_수.md",
     "README.md",
+    "Baekjoon_oj/solution/17780_새로운_게임.md",
+    "Baekjoon_oj/solution/2877_4와7.md",
+    "Baekjoon_oj/solution/1562_계단_수.md",
     "Baekjoon_oj/solution/3584_가장가까운공통조상.md",
     "Baekjoon_oj/solution/2559_수열.md",
     "Baekjoon_oj/solution/15683_감시.md",
@@ -173,7 +175,6 @@
     "Baekjoon_oj/2293.py",
     "Programmers/solution/lvl3_거스름돈.md",
     "Programmers/solution/lvl2_줄_서는_방법.md",
-    "Baekjoon_oj/solution/17780_새로운_게임.md",
     "Baekjoon_oj/solution/15591_MooTube_(Silver).md",
     "Baekjoon_oj/solution/15486_퇴사_2.md",
     "Baekjoon_oj/solution/11726_2xn_타일링.md",
@@ -184,7 +185,6 @@
     "Baekjoon_oj/solution/9465_스티커.md",
     "Baekjoon_oj/solution/9252_LCS 2.md",
     "Baekjoon_oj/solution/9251_LCS.md",
-    "Baekjoon_oj/solution/9095_1,2,3_더하기.md",
     "Beakjoon_oj/4913",
     "Beakjoon_oj/2631.py",
     "Beakjoon_oj/11723.py",
