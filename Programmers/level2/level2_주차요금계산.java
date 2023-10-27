@@ -57,10 +57,8 @@ class Solution {
             int parkingTime = getParkingTime(entry.getValue(), "23:59");
             totalParkingTime.put(num, totalParkingTime.getOrDefault(num, 0) + parkingTime);
         }
-        System.out.println(totalParkingTime);
         ArrayList<String> keys = new ArrayList<>(totalParkingTime.keySet());
         Collections.sort(keys);
-        System.out.println(keys);
         int[] answer = new int[totalParkingTime.size()];
         int i = 0;
         for (String key : keys) {
