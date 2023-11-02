@@ -19,7 +19,7 @@ Below is a list of problems I have tackled in this repository. Problems are orga
 |[14501_퇴사](./Baekjoon_oj/solution/14501_퇴사.md)|[14891_톱니바퀴](./Baekjoon_oj/solution/14891_톱니바퀴.md)|[15486_퇴사_2](./Baekjoon_oj/solution/15486_퇴사_2.md)|
 |[15591_MooTube_(Silver)](./Baekjoon_oj/solution/15591_MooTube_(Silver).md)|[15683_감시](./Baekjoon_oj/solution/15683_감시.md)|[17780_새로운_게임](./Baekjoon_oj/solution/17780_새로운_게임.md)|
 |[2877_4와7](./Baekjoon_oj/solution/2877_4와7.md)|[18185_라면사기(small)](https://velog.io/@gynhyunkim/%EB%B0%B1%EC%A4%80Python3-18185-%EB%9D%BC%EB%A9%B4-%EC%82%AC%EA%B8%B0-small)|[2212_센서](https://velog.io/@gynhyunkim/%EB%B0%B1%EC%A4%80Python3-2212%EB%B2%88-%EC%84%BC%EC%84%9C)|
-
+|[18265_배낭](https://velog.io/@gynhyunkim/%EB%B0%B1%EC%A4%80Python3-12865%EB%B2%88-%EB%B0%B0%EB%82%AD)|[정수삼각형](https://velog.io/@gynhyunkim/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-%EC%A0%95%EC%88%98-%EC%82%BC%EA%B0%81%ED%98%95-%ED%92%80%EC%9D%B4)||
 ---
 ## List of Languages
 The primary programming languages used in this repository include:
