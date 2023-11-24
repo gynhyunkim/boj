@@ -17,8 +17,10 @@ Below is a list of problems I have tackled in this repository. Problems are orga
 |[10021_Watering_the_Fields](./Baekjoon_oj/solution/10021_Watering_the_Fields.md)|[10971_외판원_순회2](./Baekjoon_oj/solution/10971_외판원_순회2.md)|[11066_파일_합치기](./Baekjoon_oj/solution/11066_파일_합치기.md)|
 |[11570_환상의_듀엣](./Baekjoon_oj/solution/11570_환상의_듀엣.md)|[11726_2xn_타일링](./Baekjoon_oj/solution/11726_2xn_타일링.md)|[12100_2048(easy)](./Baekjoon_oj/solution/12100_2048(easy).md)|
 |[14501_퇴사](./Baekjoon_oj/solution/14501_퇴사.md)|[14891_톱니바퀴](./Baekjoon_oj/solution/14891_톱니바퀴.md)|[15486_퇴사_2](./Baekjoon_oj/solution/15486_퇴사_2.md)|
-|[15591_MooTube_(Silver)](./Baekjoon_oj/solution/15591_MooTube_(Silver).md)|[15683_감시](./Baekjoon_oj/solution/15683_감시.md)|[17780_새로운_게임](./Baekjoon_oj/solution/17780_새로운_게임.md)|%
-
+|[15591_MooTube_(Silver)](./Baekjoon_oj/solution/15591_MooTube_(Silver).md)|[15683_감시](./Baekjoon_oj/solution/15683_감시.md)|[17780_새로운_게임](./Baekjoon_oj/solution/17780_새로운_게임.md)|
+|[2877_4와7](./Baekjoon_oj/solution/2877_4와7.md)|[18185_라면사기(small)](https://velog.io/@gynhyunkim/%EB%B0%B1%EC%A4%80Python3-18185-%EB%9D%BC%EB%A9%B4-%EC%82%AC%EA%B8%B0-small)|[2212_센서](https://velog.io/@gynhyunkim/%EB%B0%B1%EC%A4%80Python3-2212%EB%B2%88-%EC%84%BC%EC%84%9C)|
+|[18265_배낭](https://velog.io/@gynhyunkim/%EB%B0%B1%EC%A4%80Python3-12865%EB%B2%88-%EB%B0%B0%EB%82%AD)|[정수삼각형](https://velog.io/@gynhyunkim/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Java-%EC%A0%95%EC%88%98-%EC%82%BC%EA%B0%81%ED%98%95-%ED%92%80%EC%9D%B4)|[17404_RGB거리2](https://velog.io/@gynhyunkim/%EB%B0%B1%EC%A4%80Python3-17404-RGB%EA%B1%B0%EB%A6%AC2)|
+|[15681_트리와쿼리](https://velog.io/@gynhyunkim/%EB%B0%B1%EC%A4%80Pyton3-15681-%ED%8A%B8%EB%A6%AC%EC%99%80-%EC%BF%BC%EB%A6%AC)|[1976_여행가자](https://velog.io/@gynhyunkim/%EB%B0%B1%EC%A4%80Python3-1976-%EC%97%AC%ED%96%89-%EA%B0%80%EC%9E%90)|[7570_앱](https://velog.io/@gynhyunkim/%EB%B0%B1%EC%A4%80Python3-7579-%EC%95%B1)|
 ---
 ## List of Languages
 The primary programming languages used in this repository include:
